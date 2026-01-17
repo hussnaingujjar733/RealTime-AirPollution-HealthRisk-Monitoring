@@ -1,0 +1,11 @@
+{
+  "type": "struct",
+  "fields": [
+    {"name": "city", "type": "string"},
+    {"name": "country", "type": "string"},
+    {"name": "parameter", "type": "string"},
+    {"name": "value", "type": "double"},
+    {"name": "unit", "type": "string"},
+    {"name": "timestamp", "type": "string"}
+  ]
+}

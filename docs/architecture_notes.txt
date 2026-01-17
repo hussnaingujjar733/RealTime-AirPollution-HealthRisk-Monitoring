@@ -1,0 +1,5 @@
+SYSTEM ARCHITECTURE NOTES:
+- Ingestion: Python scripts using requests library for OpenAQ/Weather API.
+- Messaging: Kafka 3.4.1 acting as a distributed commit log.
+- Processing: Spark 3.5.0 running on YARN for fault-tolerant streaming.
+- Storage: InfluxDB time-series optimized for fast dashboard queries.

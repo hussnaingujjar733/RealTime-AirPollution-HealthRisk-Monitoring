@@ -1,0 +1,4 @@
+[
+  {"city": "Paris", "parameter": "pm25", "value": 15.2, "timestamp": "2026-01-01T10:00:00Z"},
+  {"city": "Lyon", "parameter": "pm25", "value": 10.8, "timestamp": "2026-01-01T10:05:00Z"}
+]

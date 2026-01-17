@@ -1,0 +1,9 @@
+{
+  "fields": [
+    {"name": "city", "type": "string"},
+    {"name": "temperature", "type": "double"},
+    {"name": "humidity", "type": "integer"},
+    {"name": "description", "type": "string"},
+    {"name": "timestamp", "type": "string"}
+  ]
+}

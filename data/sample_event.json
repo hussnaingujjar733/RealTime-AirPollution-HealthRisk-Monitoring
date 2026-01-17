@@ -1,0 +1,8 @@
+{
+  "city": "Paris",
+  "country": "FR",
+  "parameter": "pm25",
+  "value": 12.5,
+  "unit": "µg/m³",
+  "timestamp": "2026-01-01T10:00:00Z"
+}

@@ -1,0 +1,4 @@
+kafka-python>=2.0.2
+requests>=2.31.0
+pyspark>=3.5.0
+influxdb>=5.3.1
